@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on nekoneko</title>
-    <link>https://example.org/post/</link>
-    <description>Recent content in Posts on nekoneko</description>
+    <title>Post on Hugo Future Imperfect Slim</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Post on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 07 Jun 2020 00:24:44 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>にゃん</title>
-      <link>https://example.org/2020/06/%E3%81%AB%E3%82%83%E3%82%93/</link>
+      <link>https://example.com/post/new/</link>
       <pubDate>Sun, 07 Jun 2020 00:24:44 +0900</pubDate>
       
-      <guid>https://example.org/2020/06/%E3%81%AB%E3%82%83%E3%82%93/</guid>
+      <guid>https://example.com/post/new/</guid>
       <description>ねこはかわいいです。 ねこはかわいい</description>
     </item>
     
