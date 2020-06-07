@@ -3,150 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/ja/categories/</loc>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/</loc>
+    <lastmod>2020-06-07T00:24:44+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://github.com/akanehara32/akanehara32.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ja/</loc>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/study/</loc>
+    <lastmod>2020-06-07T00:24:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/study/new/</loc>
+    <lastmod>2020-06-07T00:24:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/categories/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://github.com/akanehara32/akanehara32.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ja/tags/</loc>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/blog/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://github.com/akanehara32/akanehara32.github.io/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/tags/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/tags/test/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/tags/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/tags/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/categories/test2/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/categories/test2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/categories/test2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/blog/test/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/blog/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/blog/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/cv/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/contact/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/akanehara32/akanehara32.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://github.com/akanehara32/akanehara32.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/akanehara32/akanehara32.github.io/tags/index/</loc>
   </url>
   
 </urlset>
