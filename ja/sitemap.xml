@@ -20,6 +20,16 @@
   <url>
     <loc>https://akanehara32.github.io/study/</loc>
     <lastmod>2020-06-07T00:24:44+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/study/"
+                />
   </url>
   
   <url>
