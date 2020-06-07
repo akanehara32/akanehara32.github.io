@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on Akane Hara</title>
-    <link>https://github.com/akanehara32/akanehara32.github.io/study/</link>
+    <link>example/study/</link>
     <description>Recent content in Study on Akane Hara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 07 Jun 2020 00:24:44 +0900</lastBuildDate>
     
-	<atom:link href="https://github.com/akanehara32/akanehara32.github.io/study/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="example/study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>にゃん</title>
-      <link>https://github.com/akanehara32/akanehara32.github.io/study/new/</link>
+      <link>example/study/new/</link>
       <pubDate>Sun, 07 Jun 2020 00:24:44 +0900</pubDate>
       
-      <guid>https://github.com/akanehara32/akanehara32.github.io/study/new/</guid>
+      <guid>example/study/new/</guid>
       <description>ねこはかわいいです。 ねこはかわいい ねこは丸くなったりするからかわいいです</description>
     </item>
     
