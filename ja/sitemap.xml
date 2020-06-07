@@ -3,152 +3,253 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>example/</loc>
+    <loc>https://example.com/ja/</loc>
     <lastmod>2020-06-07T00:24:44+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/"
+                href="https://example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://example.com/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://example.com/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/"
+                href="https://example.com/ja/"
                 />
   </url>
   
   <url>
-    <loc>example/study/</loc>
+    <loc>https://example.com/ja/study/</loc>
     <lastmod>2020-06-07T00:24:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>example/study/new/</loc>
+    <loc>https://example.com/ja/study/new/</loc>
     <lastmod>2020-06-07T00:24:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>example/categories/</loc>
+    <loc>https://example.com/ja/blog/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/categories/"
+                href="https://example.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/categories/"
+                href="https://example.com/ja/blog/"
                 />
   </url>
   
   <url>
-    <loc>example/blog/</loc>
+    <loc>https://example.com/ja/categories/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/blog/"
+                href="https://example.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://example.com/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://example.com/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/blog/"
+                href="https://example.com/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>example/tags/</loc>
+    <loc>https://example.com/ja/tags/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/tags/"
+                href="https://example.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://example.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://example.com/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/tags/"
+                href="https://example.com/ja/tags/"
                 />
   </url>
   
   <url>
-    <loc>example/tags/test/</loc>
+    <loc>https://example.com/ja/tags/test/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/tags/test/"
+                href="https://example.com/tags/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/tags/test/"
+                href="https://example.com/ja/tags/test/"
                 />
   </url>
   
   <url>
-    <loc>example/categories/test2/</loc>
+    <loc>https://example.com/ja/categories/test2/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/categories/test2/"
+                href="https://example.com/categories/test2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/categories/test2/"
+                href="https://example.com/ja/categories/test2/"
                 />
   </url>
   
   <url>
-    <loc>example/blog/test/</loc>
+    <loc>https://example.com/ja/blog/test/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/blog/test/"
+                href="https://example.com/blog/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/blog/test/"
+                href="https://example.com/ja/blog/test/"
                 />
   </url>
   
   <url>
-    <loc>example/cv/</loc>
+    <loc>https://example.com/ja/cv/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/cv/"
+                href="https://example.com/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/cv/"
+                href="https://example.com/ja/cv/"
                 />
   </url>
   
   <url>
-    <loc>example/contact/</loc>
+    <loc>https://example.com/ja/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="example/en/contact/"
+                href="https://example.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="example/contact/"
+                href="https://example.com/ja/contact/"
                 />
-  </url>
-  
-  <url>
-    <loc>example/tags/index/</loc>
   </url>
   
 </urlset>
