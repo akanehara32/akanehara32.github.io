@@ -128,21 +128,6 @@
   </url>
   
   <url>
-    <loc>https://akanehara32.github.io/cv/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/cv/"
-                />
-  </url>
-  
-  <url>
     <loc>https://akanehara32.github.io/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -158,7 +143,35 @@
   </url>
   
   <url>
+    <loc>https://akanehara32.github.io/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/cv/"
+                />
+  </url>
+  
+  <url>
     <loc>https://akanehara32.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/publication/"
+                />
   </url>
   
 </urlset>

@@ -129,7 +129,7 @@
   
   <url>
     <loc>https://akanehara32.github.io/en/cv/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -139,6 +139,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://akanehara32.github.io/en/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/en/publication/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/publication/"
                 />
   </url>
   
