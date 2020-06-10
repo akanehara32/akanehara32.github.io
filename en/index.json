@@ -2,19 +2,13 @@
     "title": "test",
     "date": "June 7, 2020",
     "description": "",
-    "body": "Cats are so cute\n",
+    "body": "Coming soon\n",
     "ref": "/en/study/new2/"
-  },{
-    "title": "test",
-    "date": "June 6, 2020",
-    "description": "test",
-    "body": "",
-    "ref": "/en/blog/test/"
   },{
     "title": "CV",
     "date": "June 9, 2019",
-    "description": "Articles, Presentations and Grants",
-    "body": "cv\n",
+    "description": "",
+    "body": "Education   November, 2019 - January, 2020:\nVisiting PhD Student, Utrecht University, the Netherlands\n(JSPS Overseas Challenge Program for Young Researchers)\n  April, 2018 - March, 2021:\nJSPS Research Fellow DC1\n  April, 2016 - (PhD student):\nGraduate School of Systems Life Sciences, Kyushu University (M.Sc.)\n  April, 2012 - March, 2016:\nDepartment of Biology, Faculty of Science, Kyushu University (B.Sc.)\n   Grant, Fellowship and Award   November, 2019 - January, 2020:\nJSPS Overseas Challenge Program for Young Researchers\n  April, 2018 - March, 2021:\nJSPS Research Fellowship for Young Scientists (18J20316)\n  2018:\nRepayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship\n  2018:\nKyushu University Female Graduate School Students Awards\n  2017:\nMetagen Intestinal Design Prize, Leave a Nest Grant\n  ",
     "ref": "/en/cv/"
   },{
     "title": "Publications",
@@ -28,4 +22,10 @@
     "description": "",
     "body": "Email hara.akane32a[at]gmail.com\nAddress Theoretical Biology Laboratory (W1-C-910).\nGraduate School of Systems Life Sciences,\nKyushu University,\n744 Motooka, Nishi-ku, Fukuoka, 819-0395 Japan.\n",
     "ref": "/en/contact/"
+  },{
+    "title": "Posts",
+    "date": "January 1, 0001",
+    "description": "",
+    "body": "",
+    "ref": "/en/blog/"
   }]
