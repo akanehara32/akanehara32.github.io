@@ -96,16 +96,6 @@
   
   <url>
     <loc>https://akanehara32.github.io/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/blog/"
-                />
   </url>
   
   <url>
