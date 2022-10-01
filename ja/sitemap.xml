@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://akanehara32.github.io/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://akanehara32.github.io/tags/event/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,6 +44,51 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://akanehara32.github.io/tags/event/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/study/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/study/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/tags/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/study/new/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/study/new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/study/new/"
                 />
   </url>
   
@@ -63,21 +108,6 @@
   </url>
   
   <url>
-    <loc>https://akanehara32.github.io/tags/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://akanehara32.github.io/blog/20221001/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,36 +119,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://akanehara32.github.io/blog/20221001/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://akanehara32.github.io/study/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/study/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/study/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://akanehara32.github.io/study/new/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/study/new/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/study/new/"
                 />
   </url>
   
