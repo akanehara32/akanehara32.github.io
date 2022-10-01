@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Address on Akane Hara</title>
+    <link>https://akanehara32.github.io/address/</link>
+    <description>Recent content in Address on Akane Hara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://akanehara32.github.io/address/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>連絡先</title>
+      <link>https://akanehara32.github.io/address/test/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://akanehara32.github.io/address/test/</guid>
+      <description>所属機関住所 〒930-0194
+富山県富山市杉谷2630
+富山大学杉谷（医薬系）キャンパス
+薬学部研究棟2階
+薬学部データサイエンス実験室
+TEL: 076-434-7573</description>
+    </item>
+    
+  </channel>
+</rss>
