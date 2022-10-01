@@ -1,4 +1,10 @@
 [{
+    "title": "Contact",
+    "date": "October 1, 2022",
+    "description": "",
+    "body": "Address Laboratory of Pharmaceutical Quality Assurance and Assessment,\nSchool of Pharmacy and Pharmaceutical Sciences,\nUniversity of Toyama,\n2630 Sugitani, Toyama, 930-0194 Japan.\n+81-76-434-7573\n",
+    "ref": "/en/contact/test/"
+  },{
     "title": "test",
     "date": "June 7, 2020",
     "description": "",
@@ -20,6 +26,6 @@
     "title": "連絡先",
     "date": "February 28, 2019",
     "description": "",
-    "body": "メール hara.akane32a[at]gmail.com\n所属機関住所 〒060-0810\n札幌市北区北10条西8丁目\n北海道大学理学部2号館7階703室\n",
+    "body": "所属機関住所・連絡先 〒060-0810\n札幌市北区北10条西8丁目\n北海道大学理学部2号館7階703室\n",
     "ref": "/en/blog/"
   }]

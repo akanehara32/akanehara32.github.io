@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Akane Hara</title>
+    <link>https://akanehara32.github.io/en/contact/</link>
+    <description>Recent content in Contact on Akane Hara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://akanehara32.github.io/en/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://akanehara32.github.io/en/contact/test/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://akanehara32.github.io/en/contact/test/</guid>
+      <description>Address Laboratory of Pharmaceutical Quality Assurance and Assessment,
+School of Pharmacy and Pharmaceutical Sciences,
+University of Toyama,
+2630 Sugitani, Toyama, 930-0194 Japan.
++81-76-434-7573</description>
+    </item>
+    
+  </channel>
+</rss>
