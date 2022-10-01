@@ -81,6 +81,20 @@
   </url>
   
   <url>
+    <loc>https://akanehara32.github.io/tags/event/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/tags/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/tags/event/"
+                />
+  </url>
+  
+  <url>
     <loc>https://akanehara32.github.io/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,6 +147,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://akanehara32.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/blog/20221001/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/blog/20221001/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/blog/20221001/"
                 />
   </url>
   
