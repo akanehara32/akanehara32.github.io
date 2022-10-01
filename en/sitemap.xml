@@ -93,21 +93,6 @@
   </url>
   
   <url>
-    <loc>https://akanehara32.github.io/en/blog/20221001/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/blog/20221001/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/blog/20221001/"
-                />
-  </url>
-  
-  <url>
     <loc>https://akanehara32.github.io/en/blog/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -119,6 +104,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://akanehara32.github.io/en/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/en/blog/20221001/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/blog/20221001/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/blog/20221001/"
                 />
   </url>
   
@@ -163,20 +163,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://akanehara32.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://akanehara32.github.io/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/tags/index/"
                 />
   </url>
   
