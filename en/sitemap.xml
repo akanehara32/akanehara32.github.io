@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://akanehara32.github.io/en/tags/event/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/tags/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/tags/event/"
-                />
-  </url>
-  
-  <url>
     <loc>https://akanehara32.github.io/en/study/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://akanehara32.github.io/en/tags/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://akanehara32.github.io/en/blog/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -108,6 +78,21 @@
   </url>
   
   <url>
+    <loc>https://akanehara32.github.io/en/tags/event/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/tags/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/tags/event/"
+                />
+  </url>
+  
+  <url>
     <loc>https://akanehara32.github.io/en/blog/20221001/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -119,6 +104,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://akanehara32.github.io/en/blog/20221001/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://akanehara32.github.io/en/tags/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/tags/"
                 />
   </url>
   
