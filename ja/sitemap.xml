@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://akanehara32.github.io/publication/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/publication/"
+                />
+  </url>
+  
+  <url>
     <loc>https://akanehara32.github.io/study/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -153,20 +168,6 @@
   
   <url>
     <loc>https://akanehara32.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://akanehara32.github.io/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://akanehara32.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://akanehara32.github.io/publication/"
-                />
   </url>
   
 </urlset>
