@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://akanehara32.github.io/study/</loc>
-    <lastmod>2020-06-07T00:24:44+09:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,7 +109,17 @@
   
   <url>
     <loc>https://akanehara32.github.io/study/new/</loc>
-    <lastmod>2020-06-07T00:24:44+09:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://akanehara32.github.io/en/study/new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://akanehara32.github.io/study/new/"
+                />
   </url>
   
   <url>
