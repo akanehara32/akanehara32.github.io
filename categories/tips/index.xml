@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Akane Hara</title>
-    <link>https://akanehara32.github.io/blog/</link>
-    <description>Recent content in Posts on Akane Hara</description>
+    <title>tips on Akane Hara</title>
+    <link>https://akanehara32.github.io/categories/tips/</link>
+    <description>Recent content in tips on Akane Hara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://akanehara32.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akanehara32.github.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,17 +37,6 @@
   冷えるので、機内で配られるブランケットの他に、上着や自分のブランケットがあると安心。
   気がついたらまめに足の体操をする。
   ホテルに着いたら、脚がむくんでいるので揉む。</description>
-    </item>
-    
-    <item>
-      <title>富山大学に異動しました</title>
-      <link>https://akanehara32.github.io/blog/20221001/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://akanehara32.github.io/blog/20221001/</guid>
-      <description>富山大学に異動しました 2022年4月1日に富山大学薬学部医薬品品質保証・評価学講座に異動しました。
-数理モデルやデータ解析で薬学の課題に取り組みます。
-富山大学薬学部の講座紹介</description>
     </item>
     
   </channel>
